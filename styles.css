@@ -1,0 +1,144 @@
+body {
+  background-image: url(image/bg3.png);
+}
+.a2   {
+  
+    font-size: 20px;
+    color: #ffffff;
+    text-align: center;
+    text-decoration:none;
+    text-transform: uppercase;
+    padding:40px;
+    margin-left: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-s
+    
+
+}
+.a2:hover {
+    color: #952e2e;
+  
+        
+}
+    
+
+  .a1   {
+    display: inline;
+   height: 100px;
+   width: 1340px;
+   background-color: #d8c9c9;
+  
+   }
+#h {
+display: inline;
+position: relative;
+top: 30px;
+left: 540px;
+display: inline;
+   }
+
+   .h1   {
+    position: absolute;
+    top: 195px;
+    left: 75px;
+    display: inline;  
+color:  #ffffff;
+font-size: 35PX;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   }
+
+   .h2   {
+    position: absolute;
+    top: 235px;
+    left: 75px;
+    display: inline;
+color: #c23737;
+font-size: 25PX;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.h3   {
+  position: relative;
+  top: 280px;
+  left: 75px;
+  display: inline;
+color: #fbfbfb;
+
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.b2   {
+  text-align: center;
+ font-weight: bolder;
+text-decoration: none;
+color: #c23737;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.b1  {
+  display: inline;
+  position: relative;
+  top: 378px;
+  left: -250px;
+  margin-left: 100PX;
+   outline: 0;
+  cursor: pointer;
+  border-radius: 6px;
+  border: 2px solid #ff4742;
+  color: #ff4742;
+  background: 0 0;
+  padding: 8px;
+  box-shadow: rgba(0, 0, 0, 0.07) 0px 2px 4px 0px, rgba(0, 0, 0, 0.05) 0px 1px 1.5px 0px;
+  font-weight: 800;
+  font-size: 16px;
+  height: 42px;
+}
+  .b1:hover{
+      background-color: #eddbd9;
+      color: #fff;
+  }
+  
+.thank {
+  
+  position: absolute;
+  top: 610px;
+  left: 50px;
+  width: 1200px;
+  border-radius: 25px;
+  border: 2px solid #ff4742;
+}
+
+.logo1   {
+  display: inline;
+  position: absolute;
+  top: 500px;
+  left:85px;
+  width: 70px;
+  border-radius: 15px;
+  border: 2px solid #ff4742;
+ }
+ .logo2 {
+  display: inline;
+  position: absolute;
+  top: 500px;
+  left:720px;
+  width: 75px;
+  border-radius: 15px;
+  border: 2px solid #ff4742;
+ }
+ .logo2:hover{
+  
+  border: 2px solid #5878d7;
+}
+.logo1:hover{
+  
+  border: 2px solid #5878d7;
+}
+
+.port  {
+  position: absolute;
+  top:25px;
+  left: 85px;
+  display: inline;  
+color: #ffffff;
+font-size: 25PX;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+

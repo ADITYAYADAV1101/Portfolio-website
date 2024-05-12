@@ -1,0 +1,122 @@
+ body {
+        background-image: url(image/workbg1.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        
+      }
+     .a2   {
+   
+       font-size: 35px;
+       color: #31b4bb;
+       text-decoration:none;
+       font-weight: bolder;
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      
+   
+   }
+   .a2:hover {
+       color: #000000;
+     
+       
+       
+   }
+   #h {
+   
+       position: absolute;
+       top: 80px;
+       left:150px;
+       display: inline;
+      }
+
+      .h2   {
+        position: absolute;
+        top: 130px;
+        left: 500px;
+        display: inline;
+    color: #9e6363;
+    font-size: 25PX;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    .h3   {
+      position: absolute;
+      top: 200px;
+      left: 500px;
+      display: inline;
+    color: #000000;
+    font-size: 20px;
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .h1   {
+      position: absolute;
+      top: 20px;
+      left: 500px;
+      display: inline;
+    color: #31b4bb;
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .h5   {
+      position: absolute;
+      top: 320px;
+      left: 500px;
+      display: inline;
+  color: #9f4747;
+  font-size: 25PX;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+
+  .h4   {
+    position: absolute;
+    top: 360px;
+    left: 500px;
+    display: inline;
+  color: #000000;
+  font-size: 20px;
+  
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .h7  {
+    position: absolute;
+    top: 450px;
+    left: 500px;
+    display: inline;
+color: #8b3a3a;
+font-size: 25PX;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.h6   {
+  position: absolute;
+  top: 490px;
+  left: 500px;
+  display: inline;
+color: #000000;
+font-size: 20px;
+
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.h8 {
+  text-transform: uppercase;
+  position: absolute;
+  top: 20px;
+  left: 1000px;
+  display: inline;
+color: #31b4bb;
+
+
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.logo1   {
+  display: inline;
+  position: absolute;
+  top: 190px;
+  left:1090px;
+  width: 150px;
+  border-radius: 15px;
+  border: 2px solid #33aada;
+ }
+ .logo1:hover{
+  
+  border: 2px solid #000000;
+}

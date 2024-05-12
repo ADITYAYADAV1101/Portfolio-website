@@ -1,0 +1,146 @@
+
+body {
+    background-image: url(image/gt2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+  }
+
+  .a2   {
+
+    font-size: 30px;
+    color: #ffffff;
+    text-decoration:none;
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+
+}
+.a2:hover {
+    color: #f56868;
+  
+    
+    
+}
+#h {
+
+    position: relative;
+    top: 40px;
+    left: 78px;
+    display: inline;
+   }
+
+   .logo1   {
+    display: inline;
+    position: absolute;
+    top: 450px;
+    left:93px;
+    width: 70px;
+    border-radius: 15px;
+    border: 2px solid #00FFFF;
+   }
+   .logo2 {
+    display: inline;
+    position: absolute;
+    top: 350px;
+    left:93px;
+    width: 70px;
+    border-radius: 15px;
+    border: 2px solid#00FFFF;
+   }
+   .logo2:hover{
+    
+    border: 2px solid #000000;
+  }
+  .logo1:hover{
+    
+    border: 2px solid #000000;
+  }
+  .logo3 {
+    display: inline;
+    position: absolute;
+    top: 250px;
+    left:93px;
+    width: 70px;
+    border-radius: 15px;
+    border: 2px solid #00FFFF;
+   }
+   .logo3:hover{
+    
+    border: 2px solid #000000;
+  }
+  
+  
+  .logo4 {
+    display: inline;
+    position: absolute;
+    top: 150px;
+    left:93px;
+    width: 70px;
+    border-radius: 15px;
+    border: 2px solid #00FFFF;
+   }
+   .logo4:hover{
+    
+    border: 2px solid #000000;
+  }
+  .logo5 {
+    display: inline;
+    position: absolute;
+    top: 540px;
+    left:93px;
+    width: 70px;
+    border-radius: 15px;
+    border: 2px solid#00FFFF;
+   }
+   .logo5:hover{
+    
+    border: 2px solid #000000;
+  }
+  .p1  {
+    display: inline;
+    position: absolute;
+    top: 135px;
+    left:200px;
+    font-size: 20px;
+    font-weight: bolder;
+    color:rgb(255, 255, 255);
+   }
+   .p2  {
+    display: inline;
+    position: absolute;
+    top: 240px;
+    left:200px;
+    font-size: 20px;
+    font-weight: bolder;
+    color:rgb(255, 255, 255);
+   }
+   .p3  {
+    display: inline;
+    position: absolute;
+    top: 340px;
+    left:200px;
+    font-size: 20px;
+    font-weight: bolder;
+    color:rgb(255, 255, 255);
+   }
+   .p4 {
+    display: inline;
+    position: absolute;
+    top: 440px;
+    left:200px;
+    font-size: 20px;
+    font-weight: bolder;
+    color:rgb(255, 255, 255);
+   }
+   .p5 {
+    display: inline;
+    position: absolute;
+    top: 530px;
+    left:200px;
+    font-size: 20px;
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+   }
+
+

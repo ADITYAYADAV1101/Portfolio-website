@@ -1,0 +1,142 @@
+
+body {
+ background: rgb(20, 19, 19);
+ 
+
+}
+  .a2   {
+
+    font-size: 30px;
+    color: #eb4e4e;
+    text-decoration:none;
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+
+}
+.a2:hover {
+    color: #ffffff;
+  
+    
+    
+}
+#h {
+
+    position: absolute;
+    top: 140px;
+    left:120px;
+    display: inline;
+   }
+   .img1  {
+    display: inline;
+    position: absolute;
+    top:140px ;
+    right: 200px;
+    width: 300px;
+    border: 4px solid #27bcca;
+    
+   
+    border-radius: 30px;
+
+
+}
+.img2 {
+
+    width: 1150px;
+    height: 550px;
+    border: 4px solid #27bcca;
+    border-radius: 25px;
+    margin-top:600px;
+    margin-left: 70px;
+
+
+}   
+.img3 {
+
+    width: 1150px;
+    height: 580px;
+    border: 4px solid #27bcca;
+    border-radius: 25px;
+    margin-top:30px;
+    margin-left: 70px;
+
+
+}  
+ .img4 {
+
+    width: 1150px;
+    height: 580px;
+    border: 4px solid #27bcca;
+    border-radius: 25px;
+    margin-top:30px;
+    margin-left: 70px;
+
+
+}
+.h1   {
+    text-transform: uppercase;
+   position: absolute;
+    top: 200px;
+    left: 120px;
+    display: inline;  
+color: #fbfafa;
+font-size: 35PX;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   }
+
+   .h2   {
+    position: absolute;
+    top: 280px;
+    left: 120px;
+    display: inline;
+color: #ffffff;
+font-size: 23PX;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.scroll {
+    position: absolute;
+    top: 490px;
+    left: 650px;
+	width: 60px;
+	height: 60px;
+	border: 2px solid #27bcca;
+	border-radius: 50%;
+	animation: down 1.5s infinite;
+	-webkit-animation: down 1.5s infinite;
+	&::before {
+		content: '';
+		position: absolute;
+		top: 17px;
+		left: 20px;
+		width: 18px;
+		height: 18px;
+		border-left: 2px solid #27bcca;
+  	border-bottom: 2px solid #27bcca;
+		transform: rotate(-45deg);
+	}
+}
+
+@keyframes down {
+	0% {
+		transform: translate(0);
+	}
+	20% {
+		transform: translateY(15px);
+	}
+	40% {
+		transform: translate(0);
+	}
+}
+
+@-webkit-keyframes down {
+	0% {
+		transform: translate(0);
+	}
+	20% {
+		transform: translateY(15px);
+	}
+	40% {
+		transform: translate(0);
+	}
+}
